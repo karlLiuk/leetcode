@@ -43,7 +43,7 @@ public class Palindrome {
     }
 
     /**
-     * 装成字符串比较.
+     * 转成字符串比较.
      **/
     public boolean isPalindrome3(int x) {
         String s = String.valueOf(x);
